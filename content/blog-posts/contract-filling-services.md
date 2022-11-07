@@ -1,7 +1,6 @@
 +++
 author = "Henry Thoreau"
 date = 2022-11-06T19:00:00Z
-draft = true
 hero = "/images/ruslan-bardash-g83y6do219w-unsplash.jpg"
 title = "Contract filling services"
 type = "blog"
